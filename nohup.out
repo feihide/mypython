@@ -1,0 +1,1355 @@
+2016-03-23 16:03:51 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-03-23 16:03:51 0 [Note] mysqld (mysqld 5.6.26) starting as process 870 ...
+2016-03-23 16:03:51 870 [Warning] Setting lower_case_table_names=2 because file system for /usr/local/var/mysql/ is case insensitive
+2016-03-23 16:03:51 870 [Note] Plugin 'FEDERATED' is disabled.
+2016-03-23 16:03:51 870 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2016-03-23 16:03:51 870 [Note] InnoDB: The InnoDB memory heap is disabled
+2016-03-23 16:03:51 870 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-03-23 16:03:51 870 [Note] InnoDB: Memory barrier is not used
+2016-03-23 16:03:51 870 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2016-03-23 16:03:51 870 [Note] InnoDB: Using CPU crc32 instructions
+2016-03-23 16:03:51 870 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2016-03-23 16:03:51 870 [Note] InnoDB: Completed initialization of buffer pool
+2016-03-23 16:03:51 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:03:51 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:03:51 870 [Note] InnoDB: Retrying to lock the first data file
+2016-03-23 16:03:52 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:03:52 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:03:53 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:03:53 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:03:54 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:03:54 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+Error: That port is already in use.
+2016-03-23 16:03:55 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:03:55 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:03:56 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:03:56 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:03:57 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:03:57 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:03:58 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:03:58 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:03:59 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:03:59 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:00 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:00 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:01 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:01 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:02 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:02 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:03 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:03 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:04 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:04 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:05 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:05 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:06 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:06 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:07 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:07 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:08 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:08 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:09 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:09 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:10 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:10 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:11 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:11 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:12 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:12 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:13 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:13 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:14 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:14 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:15 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:15 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:16 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:16 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:17 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:17 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:18 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:18 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:19 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:19 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:20 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:20 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:21 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:21 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:22 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:22 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:23 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:23 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:24 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:24 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:25 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:25 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:26 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:26 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:27 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:27 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:28 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:28 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:29 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:29 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:30 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:30 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:31 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:31 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:33 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:33 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:34 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:34 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:35 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:35 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:36 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:36 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:37 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:37 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:38 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:38 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:39 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:39 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:40 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:40 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:41 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:41 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:42 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:42 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:43 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:43 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:44 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:44 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:45 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:45 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:46 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:46 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:47 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:47 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:48 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:48 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:49 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:49 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:50 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:50 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:51 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:51 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:52 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:52 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:53 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:53 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:54 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:54 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:55 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:55 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:56 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:56 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:57 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:57 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:58 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:58 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:04:59 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:04:59 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:00 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:00 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:01 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:01 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:02 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:02 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:03 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:03 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:04 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:04 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:05 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:05 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:06 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:06 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:07 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:07 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:08 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:08 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:09 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:09 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:10 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:10 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:11 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:11 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:12 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:12 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:13 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:13 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:14 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:14 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:15 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:15 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:16 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:16 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:17 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:17 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:18 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:18 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:19 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:19 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:20 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:20 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:21 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:21 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:22 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:22 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:23 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:23 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:24 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:24 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:25 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:25 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:26 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:26 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:27 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:27 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:28 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:28 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:29 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:29 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:30 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:30 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:31 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:31 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:32 870 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-23 16:05:32 870 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-23 16:05:32 870 [Note] InnoDB: Unable to open the first data file
+2016-03-23 16:05:32 7fff78f47300  InnoDB: Operating system error number 35 in a file operation.
+InnoDB: Error number 35 means 'Resource temporarily unavailable'.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2016-03-23 16:05:32 870 [ERROR] InnoDB: Can't open './ibdata1'
+2016-03-23 16:05:32 870 [ERROR] InnoDB: Could not open or create the system tablespace. If you tried to add new data files to the system tablespace, and it failed here, you should now edit innodb_data_file_path in my.cnf back to what it was, and remove the new ibdata files InnoDB created in this failed attempt. InnoDB only wrote those files full of zeros, but did not yet use them in any way. But be careful: do not remove old data files which contain your precious data!
+2016-03-23 16:05:32 870 [ERROR] Plugin 'InnoDB' init function returned error.
+2016-03-23 16:05:32 870 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2016-03-23 16:05:32 870 [ERROR] Unknown/unsupported storage engine: InnoDB
+2016-03-23 16:05:32 870 [ERROR] Aborting
+
+2016-03-23 16:05:32 870 [Note] Binlog end
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'partition'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_METRICS'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_CMP'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_LOCKS'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'INNODB_TRX'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'BLACKHOLE'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'ARCHIVE'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'MRG_MYISAM'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'MyISAM'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'MEMORY'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'CSV'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'sha256_password'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'mysql_old_password'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'mysql_native_password'
+2016-03-23 16:05:32 870 [Note] Shutting down plugin 'binlog'
+2016-03-23 16:05:32 870 [Note] mysqld: Shutdown complete
+
+2016-03-28 15:17:24 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-03-28 15:17:24 0 [Note] mysqld (mysqld 5.6.26) starting as process 5316 ...
+2016-03-28 15:17:25 5316 [Warning] Setting lower_case_table_names=2 because file system for /usr/local/var/mysql/ is case insensitive
+2016-03-28 15:17:25 5316 [Note] Plugin 'FEDERATED' is disabled.
+2016-03-28 15:17:25 5316 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2016-03-28 15:17:25 5316 [Note] InnoDB: The InnoDB memory heap is disabled
+2016-03-28 15:17:25 5316 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-03-28 15:17:25 5316 [Note] InnoDB: Memory barrier is not used
+2016-03-28 15:17:25 5316 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2016-03-28 15:17:25 5316 [Note] InnoDB: Using CPU crc32 instructions
+2016-03-28 15:17:25 5316 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2016-03-28 15:17:25 5316 [Note] InnoDB: Completed initialization of buffer pool
+2016-03-28 15:17:25 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:25 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:25 5316 [Note] InnoDB: Retrying to lock the first data file
+2016-03-28 15:17:26 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:26 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:27 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:27 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+Error: That port is already in use.
+2016-03-28 15:17:28 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:28 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:29 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:29 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:30 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:30 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:31 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:31 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:32 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:32 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:33 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:33 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:34 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:34 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:35 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:35 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:36 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:36 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:37 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:37 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:38 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:38 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:39 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:39 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:40 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:40 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:41 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:41 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:42 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:42 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:43 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:43 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:44 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:44 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:45 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:45 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:46 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:46 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:47 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:47 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:48 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:48 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:49 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:49 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:50 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:50 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:51 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:51 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:52 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:52 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:53 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:53 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:54 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:54 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:55 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:55 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:56 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:56 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:57 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:57 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:58 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:58 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:17:59 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:17:59 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:00 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:00 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:01 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:01 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:02 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:02 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:03 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:03 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:04 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:04 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:05 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:05 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:06 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:06 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:07 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:07 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:08 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:08 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:09 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:09 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:10 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:10 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:11 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:11 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:12 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:12 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:13 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:13 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:14 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:14 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:15 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:15 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:16 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:16 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:17 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:17 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:18 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:18 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:19 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:19 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:20 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:20 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:21 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:21 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:22 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:22 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:23 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:23 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:24 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:24 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:25 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:25 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:26 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:26 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:27 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:27 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:28 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:28 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:29 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:29 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:30 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:30 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:31 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:31 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:32 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:32 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:33 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:33 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:34 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:34 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:35 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:35 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:36 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:36 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:37 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:37 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:38 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:38 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:39 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:39 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:40 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:40 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:41 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:41 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:42 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:42 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:43 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:43 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:44 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:44 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:45 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:45 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:46 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:46 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:47 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:47 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:48 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:48 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:49 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:49 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:50 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:50 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:51 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:51 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:52 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:52 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:53 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:53 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:54 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:54 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:55 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:55 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:56 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:56 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:57 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:57 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:58 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:58 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:18:59 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:18:59 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:19:00 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:19:00 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:19:01 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:19:01 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:19:02 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:19:02 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:19:03 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:19:03 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:19:04 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:19:04 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:19:05 5316 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-28 15:19:05 5316 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-28 15:19:05 5316 [Note] InnoDB: Unable to open the first data file
+2016-03-28 15:19:05 7fff78dfc300  InnoDB: Operating system error number 35 in a file operation.
+InnoDB: Error number 35 means 'Resource temporarily unavailable'.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2016-03-28 15:19:05 5316 [ERROR] InnoDB: Can't open './ibdata1'
+2016-03-28 15:19:05 5316 [ERROR] InnoDB: Could not open or create the system tablespace. If you tried to add new data files to the system tablespace, and it failed here, you should now edit innodb_data_file_path in my.cnf back to what it was, and remove the new ibdata files InnoDB created in this failed attempt. InnoDB only wrote those files full of zeros, but did not yet use them in any way. But be careful: do not remove old data files which contain your precious data!
+2016-03-28 15:19:05 5316 [ERROR] Plugin 'InnoDB' init function returned error.
+2016-03-28 15:19:05 5316 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2016-03-28 15:19:05 5316 [ERROR] Unknown/unsupported storage engine: InnoDB
+2016-03-28 15:19:05 5316 [ERROR] Aborting
+
+2016-03-28 15:19:05 5316 [Note] Binlog end
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'partition'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_METRICS'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_CMP'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_LOCKS'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'INNODB_TRX'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'BLACKHOLE'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'ARCHIVE'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'MRG_MYISAM'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'MyISAM'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'MEMORY'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'CSV'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'sha256_password'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'mysql_old_password'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'mysql_native_password'
+2016-03-28 15:19:05 5316 [Note] Shutting down plugin 'binlog'
+2016-03-28 15:19:05 5316 [Note] mysqld: Shutdown complete
+
+2016-03-30 21:42:13 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-03-30 21:42:13 0 [Note] mysqld (mysqld 5.6.26) starting as process 445 ...
+2016-03-30 21:42:13 445 [Warning] Setting lower_case_table_names=2 because file system for /usr/local/var/mysql/ is case insensitive
+2016-03-30 21:42:13 445 [Note] Plugin 'FEDERATED' is disabled.
+2016-03-30 21:42:13 445 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2016-03-30 21:42:13 445 [Note] InnoDB: The InnoDB memory heap is disabled
+2016-03-30 21:42:13 445 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-03-30 21:42:13 445 [Note] InnoDB: Memory barrier is not used
+2016-03-30 21:42:13 445 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2016-03-30 21:42:13 445 [Note] InnoDB: Using CPU crc32 instructions
+2016-03-30 21:42:13 445 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2016-03-30 21:42:13 445 [Note] InnoDB: Completed initialization of buffer pool
+2016-03-30 21:42:13 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:13 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:13 445 [Note] InnoDB: Retrying to lock the first data file
+2016-03-30 21:42:14 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:14 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:15 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:15 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:16 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:16 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+Error: That port is already in use.
+2016-03-30 21:42:17 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:17 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:18 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:18 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:19 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:19 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:20 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:20 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:21 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:21 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:22 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:22 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:23 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:23 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:24 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:24 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:25 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:25 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:26 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:26 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:27 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:27 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:28 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:28 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:29 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:29 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:30 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:30 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:31 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:31 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:32 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:32 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:33 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:33 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:34 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:34 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:35 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:35 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:36 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:36 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:37 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:37 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:38 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:38 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:39 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:39 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:40 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:40 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:41 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:41 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:42 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:42 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:43 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:43 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:44 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:44 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:45 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:45 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:46 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:46 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:47 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:47 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:48 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:48 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:49 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:49 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:50 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:50 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:51 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:51 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:52 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:52 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:53 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:53 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:54 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:54 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:55 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:55 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:56 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:56 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:57 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:57 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:58 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:58 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:42:59 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:42:59 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:00 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:00 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:01 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:01 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:02 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:02 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:03 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:03 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:04 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:04 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:05 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:05 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:06 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:06 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:07 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:07 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:08 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:08 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:09 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:09 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:10 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:10 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:11 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:11 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:12 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:12 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:13 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:13 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:14 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:14 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:15 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:15 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:16 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:16 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:17 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:17 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:18 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:18 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:19 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:19 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:20 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:20 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:21 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:21 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:22 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:22 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:23 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:23 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:24 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:24 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:25 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:25 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:26 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:26 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:27 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:27 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:28 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:28 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:29 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:29 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:30 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:30 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:31 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:31 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:32 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:32 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:33 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:33 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:34 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:34 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:35 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:35 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:37 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:37 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:38 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:38 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:39 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:39 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:40 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:40 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:41 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:41 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:42 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:42 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:43 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:43 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:44 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:44 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:45 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:45 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:46 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:46 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:47 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:47 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:48 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:48 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:49 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:49 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:50 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:50 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:51 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:51 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:52 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:52 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:53 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:53 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:54 445 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-03-30 21:43:54 445 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-03-30 21:43:54 445 [Note] InnoDB: Unable to open the first data file
+2016-03-30 21:43:54 7fff7ad74300  InnoDB: Operating system error number 35 in a file operation.
+InnoDB: Error number 35 means 'Resource temporarily unavailable'.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2016-03-30 21:43:54 445 [ERROR] InnoDB: Can't open './ibdata1'
+2016-03-30 21:43:54 445 [ERROR] InnoDB: Could not open or create the system tablespace. If you tried to add new data files to the system tablespace, and it failed here, you should now edit innodb_data_file_path in my.cnf back to what it was, and remove the new ibdata files InnoDB created in this failed attempt. InnoDB only wrote those files full of zeros, but did not yet use them in any way. But be careful: do not remove old data files which contain your precious data!
+2016-03-30 21:43:54 445 [ERROR] Plugin 'InnoDB' init function returned error.
+2016-03-30 21:43:54 445 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2016-03-30 21:43:54 445 [ERROR] Unknown/unsupported storage engine: InnoDB
+2016-03-30 21:43:54 445 [ERROR] Aborting
+
+2016-03-30 21:43:54 445 [Note] Binlog end
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'partition'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_METRICS'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_CMP'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_LOCKS'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'INNODB_TRX'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'BLACKHOLE'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'ARCHIVE'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'MRG_MYISAM'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'MyISAM'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'MEMORY'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'CSV'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'sha256_password'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'mysql_old_password'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'mysql_native_password'
+2016-03-30 21:43:54 445 [Note] Shutting down plugin 'binlog'
+2016-03-30 21:43:54 445 [Note] mysqld: Shutdown complete
+
+2016-04-05 17:47:25 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-04-05 17:47:25 0 [Note] mysqld (mysqld 5.6.26) starting as process 438 ...
+2016-04-05 17:47:25 438 [Warning] Setting lower_case_table_names=2 because file system for /usr/local/var/mysql/ is case insensitive
+2016-04-05 17:47:25 438 [Note] Plugin 'FEDERATED' is disabled.
+2016-04-05 17:47:25 438 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2016-04-05 17:47:25 438 [Note] InnoDB: The InnoDB memory heap is disabled
+2016-04-05 17:47:25 438 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-04-05 17:47:25 438 [Note] InnoDB: Memory barrier is not used
+2016-04-05 17:47:25 438 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2016-04-05 17:47:25 438 [Note] InnoDB: Using CPU crc32 instructions
+2016-04-05 17:47:25 438 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2016-04-05 17:47:25 438 [Note] InnoDB: Completed initialization of buffer pool
+2016-04-05 17:47:25 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:25 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:25 438 [Note] InnoDB: Retrying to lock the first data file
+2016-04-05 17:47:26 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:26 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+Error: That port is already in use.
+2016-04-05 17:47:27 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:27 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:28 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:28 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:29 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:29 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:30 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:30 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:31 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:31 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:32 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:32 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:33 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:33 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:34 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:34 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:33 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:33 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:34 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:34 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:35 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:35 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:36 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:36 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:37 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:37 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:38 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:38 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:39 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:39 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:40 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:40 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:41 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:41 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:42 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:42 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:43 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:43 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:44 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:44 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:45 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:45 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:46 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:46 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:47 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:47 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:48 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:48 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:49 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:49 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:50 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:50 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:51 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:51 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:52 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:52 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:53 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:53 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:54 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:54 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:55 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:55 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:56 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:56 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:57 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:57 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:58 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:58 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:47:59 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:47:59 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:00 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:00 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:01 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:01 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:02 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:02 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:03 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:03 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:04 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:04 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:05 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:05 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:06 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:06 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:07 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:07 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:08 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:08 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:09 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:09 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:10 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:10 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:11 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:11 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:12 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:12 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:13 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:13 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:14 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:14 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:15 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:15 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:16 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:16 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:17 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:17 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:18 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:18 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:19 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:19 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:20 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:20 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:21 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:21 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:22 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:22 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:23 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:23 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:24 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:24 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:25 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:25 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:26 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:26 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:27 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:27 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:28 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:28 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:29 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:29 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:30 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:30 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:31 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:31 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:32 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:32 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:33 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:33 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:34 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:34 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:35 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:35 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:36 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:36 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:37 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:37 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:38 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:38 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:39 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:39 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:40 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:40 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:41 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:41 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:42 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:42 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:43 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:43 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:44 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:44 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:45 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:45 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:46 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:46 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:47 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:47 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:48 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:48 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:49 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:49 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:50 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:50 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:51 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:51 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:52 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:52 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:53 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:53 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:54 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:54 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:55 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:55 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:56 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:56 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:57 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:57 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:58 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:58 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:48:59 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:48:59 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:49:00 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:49:00 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:49:01 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:49:01 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:49:02 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:49:02 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:49:03 438 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-05 17:49:03 438 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-05 17:49:03 438 [Note] InnoDB: Unable to open the first data file
+2016-04-05 17:49:03 7fff785ae300  InnoDB: Operating system error number 35 in a file operation.
+InnoDB: Error number 35 means 'Resource temporarily unavailable'.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2016-04-05 17:49:03 438 [ERROR] InnoDB: Can't open './ibdata1'
+2016-04-05 17:49:03 438 [ERROR] InnoDB: Could not open or create the system tablespace. If you tried to add new data files to the system tablespace, and it failed here, you should now edit innodb_data_file_path in my.cnf back to what it was, and remove the new ibdata files InnoDB created in this failed attempt. InnoDB only wrote those files full of zeros, but did not yet use them in any way. But be careful: do not remove old data files which contain your precious data!
+2016-04-05 17:49:03 438 [ERROR] Plugin 'InnoDB' init function returned error.
+2016-04-05 17:49:03 438 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2016-04-05 17:49:03 438 [ERROR] Unknown/unsupported storage engine: InnoDB
+2016-04-05 17:49:03 438 [ERROR] Aborting
+
+2016-04-05 17:49:03 438 [Note] Binlog end
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'partition'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_METRICS'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_CMP'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_LOCKS'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'INNODB_TRX'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'BLACKHOLE'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'ARCHIVE'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'MRG_MYISAM'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'MyISAM'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'MEMORY'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'CSV'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'sha256_password'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'mysql_old_password'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'mysql_native_password'
+2016-04-05 17:49:03 438 [Note] Shutting down plugin 'binlog'
+2016-04-05 17:49:03 438 [Note] mysqld: Shutdown complete
+
+2016-04-06 11:01:42 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2016-04-06 11:01:42 0 [Note] mysqld (mysqld 5.6.26) starting as process 529 ...
+2016-04-06 11:01:42 529 [Warning] Setting lower_case_table_names=2 because file system for /usr/local/var/mysql/ is case insensitive
+2016-04-06 11:01:42 529 [Note] Plugin 'FEDERATED' is disabled.
+2016-04-06 11:01:42 529 [Note] InnoDB: Using atomics to ref count buffer pool pages
+2016-04-06 11:01:42 529 [Note] InnoDB: The InnoDB memory heap is disabled
+2016-04-06 11:01:42 529 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2016-04-06 11:01:42 529 [Note] InnoDB: Memory barrier is not used
+2016-04-06 11:01:42 529 [Note] InnoDB: Compressed tables use zlib 1.2.3
+2016-04-06 11:01:42 529 [Note] InnoDB: Using CPU crc32 instructions
+2016-04-06 11:01:42 529 [Note] InnoDB: Initializing buffer pool, size = 128.0M
+2016-04-06 11:01:42 529 [Note] InnoDB: Completed initialization of buffer pool
+2016-04-06 11:01:42 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:42 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:42 529 [Note] InnoDB: Retrying to lock the first data file
+2016-04-06 11:01:43 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:43 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:44 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:44 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:45 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:45 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+Error: That port is already in use.
+2016-04-06 11:01:46 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:46 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:47 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:47 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:48 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:48 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:49 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:49 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:50 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:50 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:51 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:51 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:52 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:52 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:53 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:53 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:54 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:54 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:55 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:55 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:56 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:56 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:57 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:57 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:58 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:58 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:01:59 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:01:59 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:00 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:00 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:01 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:01 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:02 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:02 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:03 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:03 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:04 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:04 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:05 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:05 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:06 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:06 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:07 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:07 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:08 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:08 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:09 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:09 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:10 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:10 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:11 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:11 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:12 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:12 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:13 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:13 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:14 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:14 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:15 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:15 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:16 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:16 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:17 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:17 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:18 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:18 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:19 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:19 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:20 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:20 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:21 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:21 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:22 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:22 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:23 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:23 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:24 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:24 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:25 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:25 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:26 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:26 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:27 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:27 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:28 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:28 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:29 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:29 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:30 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:30 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:31 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:31 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:32 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:32 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:33 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:33 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:34 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:34 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:35 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:35 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:36 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:36 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:37 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:37 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:38 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:38 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:39 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:39 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:40 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:40 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:41 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:41 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:42 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:42 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:43 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:43 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:44 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:44 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:45 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:45 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:46 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:46 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:47 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:47 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:48 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:48 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:49 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:49 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:50 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:50 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:51 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:51 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:52 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:52 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:53 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:53 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:54 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:54 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:55 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:55 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:56 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:56 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:57 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:57 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:58 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:58 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:02:59 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:02:59 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:00 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:00 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:01 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:01 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:02 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:02 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:03 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:03 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:04 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:04 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:05 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:05 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:06 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:06 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:07 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:07 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:08 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:08 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:09 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:09 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:10 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:10 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:11 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:11 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:12 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:12 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:13 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:13 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:14 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:14 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:15 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:15 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:16 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:16 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:17 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:17 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:18 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:18 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:19 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:19 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:20 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:20 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:21 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:21 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:22 529 [ERROR] InnoDB: Unable to lock ./ibdata1, error: 35
+2016-04-06 11:03:22 529 [Note] InnoDB: Check that you do not already have another mysqld process using the same InnoDB data or log files.
+2016-04-06 11:03:22 529 [Note] InnoDB: Unable to open the first data file
+2016-04-06 11:03:22 7fff733f1300  InnoDB: Operating system error number 35 in a file operation.
+InnoDB: Error number 35 means 'Resource temporarily unavailable'.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.6/en/operating-system-error-codes.html
+2016-04-06 11:03:22 529 [ERROR] InnoDB: Can't open './ibdata1'
+2016-04-06 11:03:22 529 [ERROR] InnoDB: Could not open or create the system tablespace. If you tried to add new data files to the system tablespace, and it failed here, you should now edit innodb_data_file_path in my.cnf back to what it was, and remove the new ibdata files InnoDB created in this failed attempt. InnoDB only wrote those files full of zeros, but did not yet use them in any way. But be careful: do not remove old data files which contain your precious data!
+2016-04-06 11:03:22 529 [ERROR] Plugin 'InnoDB' init function returned error.
+2016-04-06 11:03:22 529 [ERROR] Plugin 'InnoDB' registration as a STORAGE ENGINE failed.
+2016-04-06 11:03:22 529 [ERROR] Unknown/unsupported storage engine: InnoDB
+2016-04-06 11:03:22 529 [ERROR] Aborting
+
+2016-04-06 11:03:22 529 [Note] Binlog end
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'partition'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_METRICS'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_CMP'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_LOCKS'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'INNODB_TRX'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'BLACKHOLE'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'ARCHIVE'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'MRG_MYISAM'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'MyISAM'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'MEMORY'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'CSV'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'sha256_password'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'mysql_old_password'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'mysql_native_password'
+2016-04-06 11:03:22 529 [Note] Shutting down plugin 'binlog'
+2016-04-06 11:03:22 529 [Note] mysqld: Shutdown complete
+
