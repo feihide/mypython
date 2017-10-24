@@ -26,7 +26,7 @@ class FilterWordsPipeline(object):
         self.cu=self.cx.cursor()
         # self.cu.execute("create table fetch (id integer primary key autoincrement, name varchar(200) ,url varchar(255) ,ctime integer  default 0  )")
     # put all words in lowercase
-    words_to_filter = ['iphone','birdy','brompton','works','cervelo','dogma','rapha','team sky','tarmac','assos','colnago','kask','supersix','super six','tikit','air','madone','zipp']
+    words_to_filter = ['9100','iphone','birdy','brompton','works','cervelo','dogma','rapha','team sky','tarmac','assos','colnago','kask','supersix','super six','tikit','air','madone','zipp']
 
     def process_item(self, item, spider):
         for word in self.words_to_filter:
