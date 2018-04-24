@@ -1,14 +1,41 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-import time
-driver = webdriver.Chrome()
-url = "http://devwww.kunlunhealth.com.cn/user/login"
-driver.get(url)
-driver.find_element_by_id("mobile").send_keys("15921709039")
+from selenium.webdriver.common.action_chains import ActionChains
 
-driver.find_element_by_id("password").send_keys("asd123")
-#time.sleep(1)
-driver.find_element_by_name("submitForm").click()
+import time
+driver = webdriver.Chrome('/work/chromedriver')
+url = "https://login.taobao.com/member/login.jhtml"
+driver.get(url)
+while True:
+    try :
+        driver.find_element_by_id("TPL_username_1").send_keys("15921709039")
+
+        driver.find_element_by_id("TPL_password_1").send_keys("asd123")
+        #time.sleep(1)
+        driver.find_element_by_id("J_SubmitStatic").click()
+
+    except Exception as e:
+        print e
+        print u'waiting'
+
+
+# elem_pic = driver.find_element_by_xpath("//div[@class='help-item help-item-weixin']/img")
+# print elem_pic.get_attribute("src")
+# action = ActionChains(driver).move_to_element(elem_pic)
+# action.context_click(elem_pic)
+#
+# action.send_keys(Keys.ARROW_DOWN)
+# action.send_keys(Keys.ARROW_DOWN)
+#
+# time.sleep(3)
+# action.send_keys('v')
+# action.perform()
+
+
+# alert.switch_to_alert()
+# alert.accept()
+
+#driver.find_element_by_name("submitForm").click()
 time.sleep(3)
 
 while True:
