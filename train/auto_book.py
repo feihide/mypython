@@ -300,7 +300,7 @@ def book_proc(sel,train_no, seat_type,apply_name,refresh_interval=0):
                 # apply_id=sel.find_element_by_xpath('//*[text(),"徐慧芳"]//u').get_attribute("for")
                 # print apply_id
                 # time.sleep(1000000)
-                sel.find_element_by_xpath('//*[@id="normalPassenger_4"]').click()
+                sel.find_element_by_xpath('//*[@id="normalPassenger_0"]').click()
                 s1 = Select(sel.find_element_by_id('seatType_1'))  # 实例化Select
                 s1.select_by_value(seat_type_dict[seat_type])
                 break
@@ -408,6 +408,10 @@ if __name__ == '__main__':
     # 变量定义
     alipayName='15921709039'
     alipayPwd='Feihide1234'
+    loginName='18616565843'
+    loginPwd='ydh032690'
+    loginName='feihide'
+    loginPwd='hide1234'
     leave_date = '2018-12-23'
     train_type = 'G'
     refresh_interval =1
@@ -440,7 +444,7 @@ if __name__ == '__main__':
             time.sleep(5*60)
             continue
 
-        login_proc(sel,'feihide', 'hide1234')
+        login_proc(sel,loginName, loginPwd)
         if is_continue_pay:
             book_result=continue_pay(sel)
         else:
